@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Solnet.JupiterPerps", "Solnet.JupiterPerps\Solnet.JupiterPerps.csproj", "{FC3A5C9F-2FB0-48BE-BAC9-8D8EC2FE7D29}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC3A5C9F-2FB0-48BE-BAC9-8D8EC2FE7D29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC3A5C9F-2FB0-48BE-BAC9-8D8EC2FE7D29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC3A5C9F-2FB0-48BE-BAC9-8D8EC2FE7D29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC3A5C9F-2FB0-48BE-BAC9-8D8EC2FE7D29}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A49B8B09-F767-4D6B-A22F-27BF2008D2DD}
+	EndGlobalSection
+EndGlobal
