@@ -1,6 +1,6 @@
 <p align="center">
 	<strong>Solnet.JupiterPerps</strong><br/>
-	Professional C# SDK & Client for interacting with the <a href="https://jup.ag" target="_blank">Jupiter</a> Perpetuals on-chain program on <a href="https://solana.com" target="_blank">Solana</a>.
+	C# SDK & Client for interacting with the <a href="https://jup.ag" target="_blank">Jupiter</a> Perpetuals on-chain program on <a href="https://solana.com" target="_blank">Solana</a>.
 </p>
 
 ---
